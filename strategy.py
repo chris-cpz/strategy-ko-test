@@ -1,1 +1,1 @@
-L./K;LM
+;LMMLML;LML;ML;ML;M;L;LM;LM
