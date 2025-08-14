@@ -1,9 +1,9 @@
 # KO TEST
 # Strategy Type: custom
 # Description: KO TEST
-# Last Updated: 2025-08-14T22:51:41.340Z
+# Last Updated: 2025-08-14T22:54:17.922Z
 
-\VVV
+UUUUUHUUU
 
 # Strategy Analysis and Performance
 # Add your backtesting results and analysis here
